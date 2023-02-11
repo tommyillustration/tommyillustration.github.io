@@ -404,3 +404,22 @@ section .column img {
         margin-top: 0;
     }
 }
+
+/* CUSTOM CSS */
+
+.aboutcontainer {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 50px;
+}
+
+.aboutpicture {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.abouttext {
+    font-size: 14px;
+    text-align: left;
+}
