@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.tommyillustration.co.uk/littlebean_bigbean/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.tommyillustration.co.uk/albumcovers-1/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,7 +11,7 @@
     <loc>https://www.tommyillustration.co.uk/dog_spot_drawings/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.tommyillustration.co.uk/boy_standing_dog_arm/</loc>
+    <loc>https://www.tommyillustration.co.uk/littlebean_bigbean/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.tommyillustration.co.uk/boy_heads/</loc>
@@ -32,7 +29,10 @@
     <loc>https://www.tommyillustration.co.uk/boy_on_roof_dog/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.tommyillustration.co.uk/dog_holding_boy/</loc>
+    <loc>https://www.tommyillustration.co.uk/boy_standing_dog_arm/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.tommyillustration.co.uk/king_louis_book/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.tommyillustration.co.uk/plant_pots/</loc>
@@ -50,16 +50,19 @@
     <loc>https://www.tommyillustration.co.uk/wheelbarrowman/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.tommyillustration.co.uk/gardening/</loc>
-    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.tommyillustration.co.uk/animal_stack/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.tommyillustration.co.uk/hold_the_world/</loc>
+    <loc>https://www.tommyillustration.co.uk/gardening/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.tommyillustration.co.uk/dog_grid/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.tommyillustration.co.uk/green_space_magazine/</loc>
+    <lastmod>2022-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.tommyillustration.co.uk/hold_the_world/</loc>
     <lastmod>2022-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.tommyillustration.co.uk/weight_of_the_world/</loc>
