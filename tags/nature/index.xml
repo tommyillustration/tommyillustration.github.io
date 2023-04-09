@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tommyillustration.co.uk/tags/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Plant pots</title>
-      <link>https://www.tommyillustration.co.uk/plant_pots/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tommyillustration.co.uk/plant_pots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cooking in nature</title>
       <link>https://www.tommyillustration.co.uk/cooking/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
@@ -30,15 +21,6 @@
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.tommyillustration.co.uk/plant_head/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plant trees.</title>
-      <link>https://www.tommyillustration.co.uk/plant_trees/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tommyillustration.co.uk/plant_trees/</guid>
       <description></description>
     </item>
     
@@ -70,11 +52,38 @@
     </item>
     
     <item>
+      <title>Positive climate action.</title>
+      <link>https://www.tommyillustration.co.uk/climate_action/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tommyillustration.co.uk/climate_action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxing in the countryside air.</title>
+      <link>https://www.tommyillustration.co.uk/bathing/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tommyillustration.co.uk/bathing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Save The Bees</title>
       <link>https://www.tommyillustration.co.uk/bees/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.tommyillustration.co.uk/bees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seagulls</title>
+      <link>https://www.tommyillustration.co.uk/seagulls/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tommyillustration.co.uk/seagulls/</guid>
       <description></description>
     </item>
     
