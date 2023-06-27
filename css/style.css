@@ -100,6 +100,7 @@ nav.navbar {
 
 .menu {
     max-width: 600px;
+    text-align: center;
 }
 
 .margin-bottom-50 {
@@ -201,12 +202,14 @@ a img {
     justify-content: space-around;
     height: 100px;
     align-items: center;
+    /* border: 2px solid red; */
 }
 
 .prev,
 .next {
     cursor: pointer;
-    color: var(--main-light);
+    /* color: var(--main-light); */
+    color: #ffffff;
     font-weight: bold;
     font-size: 36px;
     transition: 0.6s ease;
@@ -227,7 +230,8 @@ a img {
 
 .modal-close::before,
 .modal-close::after {
-    background-color: var(--main-light);
+    /* background-color: var(--main-light); */
+    background-color: #ffffff;
 }
 
 .slide-imgs {
@@ -296,6 +300,7 @@ section .column img {
     margin-top: 10px;
     text-align: center;
     height: 50px;
+    color:#ffffff;
 }
 
 .slide-meta-title {
@@ -306,12 +311,14 @@ section .column img {
 
 .text-center {
     text-align: center;
+   
 }
 
 .center {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 .exif {
@@ -319,6 +326,7 @@ section .column img {
     margin-bottom: 20px;
     font-size: small;
     color: rgb(211, 211, 211);
+    display: none;
 }
 
 .footer {
@@ -337,7 +345,9 @@ section .column img {
 .image-box {
     margin-top: 20px;
     overflow: hidden;
-    border: 0px;
+    display: flex;
+    /* border: 2px solid red; */
+    position: relative;
 }
 
 .image-box img {
@@ -347,8 +357,18 @@ section .column img {
     transform: scale(1);
 }
 
-.image-box:hover img {
+.image-box:hover img{
     transform: scale(1.03);
+    opacity: 0.3;
+}
+
+.image-box:hover + .image-hover-text {
+    display: block;
+    cursor: pointer;
+}
+
+.image-hover-text:hover {
+    display: block;
 }
 
 .slide-imgs .columns {
@@ -422,4 +442,22 @@ section .column img {
 .abouttext {
     font-size: 14px;
     text-align: left;
+}
+
+
+
+.image-hover-text {
+/* border: 2px solid lightblue; */
+position: absolute;
+margin: auto;
+height: 35%;
+top: 35%;
+width: 100%;
+text-align: center;
+padding: 50px;
+
+display: none;
+z-index: -1;
+
+font-weight:bolder;
 }
